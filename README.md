@@ -16,8 +16,8 @@
 
 ### 🔹 Projects I’m proud of
 - [Smart Tutor & Quiz Generator](https://github.com/akarsh0021/Smart-Tutor-And-Quiz-Generator) – AI tutor with quiz generation
-- Add more projects here as you build them…
 
+### DSA-300+ Questions 
 ---
 
 ✨ I love creating projects that make learning **smarter, faster, and fun**!
